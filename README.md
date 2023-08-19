@@ -17,19 +17,13 @@ code to ensure that the prompts ran upon clicking the generate button.
 
 # View
 
-
-
-## Installation
-
+[Webpage screenshot 1](./assets/images/finished-SS.png)
 
 
 ## Usage
 
-
-
-## Credits
-
-
+This application can be used to generate a random password. The password can span from 8-128 characters in length.
+The character set includes numbers, letters and special characters
 
 
 ## License
@@ -56,16 +50,16 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISINqG FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Badges
-
-
 
 ## Features
 
-
-
-## How to Contribute
-
+button to kickoff a series of prompts
+password generator based on prompt feedback
 
 
 ## Tests
+
+The testing method for this application was to click the generate button. Upon clicking the generate
+button, the prompts were then selected. I ran this test multiple times to ensure that only the prompts 
+that were selected would show in the password generated (i.e. click ok to uppercase letters, lowercase letters but 
+cancel when asked do I want special characters)
